@@ -1,0 +1,9 @@
+﻿1>------ Сборка запущено: проект: йцук, конфигурация: Debug|Win32 ------
+1>  йцук.cpp
+1>C:\Users\Top\Source\Repos\Sergmaks999\-l\йцук.cpp(83,32): error C2660: Integer::isPositive: функция не принимает 1 аргументов
+1>      C:\Users\Top\Source\Repos\Sergmaks999\-l\йцук.cpp(17,11):
+       см. объявление "Integer::isPositive"
+      C:\Users\Top\Source\Repos\Sergmaks999\-l\йцук.cpp(83,32):
+      при попытке сопоставить список аргументов "(int)"
+  
+========== Сборка: 0 успешно, 1 неудачно, 0 актуально, 0 пропущено ==========
